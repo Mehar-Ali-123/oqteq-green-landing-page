@@ -1,0 +1,19 @@
+<svg width="665" height="343" viewBox="0 0 665 343" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="611" height="343" rx="19" fill="#E0E0E0"/>
+<path d="M0.0745544 19.0222C0.0745544 8.52874 8.58114 0.0221634 19.0746 0.0221634H592.011C602.504 0.0221634 611.011 8.52875 611.011 19.0222V33.6128H0.0745544V19.0222Z" fill="#0B242B"/>
+<mask id="mask0_1_20" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="4" width="656" height="39">
+<path d="M9.06418 23.9454C9.06418 13.452 17.5708 4.94539 28.0642 4.94539H645.064C655.558 4.94539 664.064 13.452 664.064 23.9454V42.9454H9.06418V23.9454Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_20)">
+</g>
+<circle cx="54" cy="19" r="5" fill="#D9D9D9"/>
+<path d="M67 19H203" stroke="#E0E0E0" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="556.5" cy="287.5" rx="34.5" ry="32.5" fill="white"/>
+<rect x="41" y="54" width="468" height="232" fill="#D1D1D1"/>
+<path d="M79 79H335" stroke="white" stroke-width="12" stroke-linecap="round"/>
+<path d="M79 145H335" stroke="white" stroke-width="12" stroke-linecap="round"/>
+<path d="M79 210H335" stroke="white" stroke-width="12" stroke-linecap="round"/>
+<path d="M219 113H477" stroke="#2FC681" stroke-width="12" stroke-linecap="round"/>
+<path d="M219 179H477" stroke="#2FC681" stroke-width="12" stroke-linecap="round"/>
+<path d="M219 243H477" stroke="#2FC681" stroke-width="12" stroke-linecap="round"/>
+</svg>
